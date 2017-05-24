@@ -13,6 +13,8 @@
     What is the difference between a unit test and a functional/integration test?
     What is the purpose of a code style linting tool?
 
+[Pros and Cons of TDD](http://www.testingexcellence.com/pros-cons-test-driven-development/)
+[Testing Interview Questions](http://www.testingexcellence.com/software-testing-interview-questions-and-answers/)
 
 ##Explore these companies...
 
